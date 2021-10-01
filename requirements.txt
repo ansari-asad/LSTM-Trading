@@ -1,0 +1,9 @@
+nsepy
+sklearn
+keras
+pandas
+tensorflow
+matplotlib
+tk
+nsetools
+pathos
